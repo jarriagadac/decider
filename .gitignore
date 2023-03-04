@@ -25,7 +25,7 @@ UNKNOWN.egg-info/
 *.csr
 
 # Secrets
-/.env
+# /.env
 user.json
 /init.sql
 
