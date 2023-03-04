@@ -7,6 +7,7 @@ tasks:
     command: .gitpod/command.sh
 
 ports:
-  - port: 8000
+  - port: 5000
     visibility: public
     onOpen: notify
+  
