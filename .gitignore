@@ -26,8 +26,8 @@ UNKNOWN.egg-info/
 
 # Secrets
 # /.env
-user.json
-/init.sql
+#user.json
+#/init.sql
 
 # ATT&CK STIX Clone
 /attack-stix-data/
